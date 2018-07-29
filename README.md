@@ -1,1 +1,1 @@
-# spring-rest-api-hibernate
+# spring-rest-example
